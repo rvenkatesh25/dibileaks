@@ -1,0 +1,20 @@
+{
+  "default": {},
+  "local": {
+    "active_dbs": [
+      {
+        "host": "localhost",
+        "port": 5434,
+        "name": "postgres",
+        "user": "dibi",
+        "pass": "",
+        "sslMode": "disable",
+        "slot": "pgx",
+        "codec": "pgbabel"
+      }
+    ]
+  },
+  "test": {},
+  "development": {},
+  "production": {}
+}
